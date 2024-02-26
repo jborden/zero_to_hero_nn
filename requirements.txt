@@ -3,3 +3,4 @@ graphviz~=0.20
 ipython~=8.22
 numpy~=1.26
 matplotlib~=3.8
+torch~=2.2
